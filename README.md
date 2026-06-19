@@ -87,12 +87,9 @@ For VS Code:
 
 <img width="1920" height="890" alt="image" src="https://github.com/user-attachments/assets/d2a80611-95b2-4032-9340-a79dedc563d9" />
 
+<img width="300" height="533" alt="image" src="https://github.com/user-attachments/assets/cf33851f-dbd4-4a58-8bf1-4f1e50560a4d" />
 
-Example:
-
-screenshots/
-│── <img width="300" height="533" alt="image" src="https://github.com/user-attachments/assets/cf33851f-dbd4-4a58-8bf1-4f1e50560a4d" />
-│── <img width="299" height="530" alt="image" src="https://github.com/user-attachments/assets/38e2c69a-bd08-4fac-acc3-3583ed694560" />
+<img width="299" height="530" alt="image" src="https://github.com/user-attachments/assets/38e2c69a-bd08-4fac-acc3-3583ed694560" />
 
 ---
 
